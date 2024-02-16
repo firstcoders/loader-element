@@ -7,14 +7,14 @@ This webcomponent follows the [open-wc](https://github.com/open-wc/open-wc) reco
 ## Installation
 
 ```bash
-npm i soundws-loader
+npm i @soundws/loader-element
 ```
 
 ## Usage
 
 ```html
 <script type="module">
-  import 'soundws-loader/soundws-loader.js';
+  import '@soundws/loader-element/soundws-loader.js';
 </script>
 
 <soundws-loader></soundws-loader>
