@@ -12,6 +12,10 @@
     "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sound-ws/loader-element.git"
+  },
   "exports": {
     ".": "./index.js",
     "./soundws-loader.js": "./soundws-loader.js"
